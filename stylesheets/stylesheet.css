@@ -217,7 +217,7 @@ margin: 0;
 
 
 li.spot {
-background: url(icons/rsz_1spotlight.png) no-repeat left top;
+background: url(icons/rsz_spotlight.png) no-repeat left top;
 height: 54px;
 padding-left: 44px;
 padding-top: 3px;
@@ -247,7 +247,7 @@ padding-left: 44px;
 padding-top: 3px;
 } 
 li.resrchproj {
-background: url(icons/rsz_resrchproj.png) no-repeat left top;
+background: url(icons/rsz_iconevp.png) no-repeat left top;
 height: 54px;
 padding-left: 44px;
 padding-top: 3px;
@@ -336,7 +336,7 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: black;
-  background: url('../images/rsz_1spotlight.png') #fff no-repeat 95% 50%;
+  background: url('../images/rsz_spotlight.png') #fff no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
